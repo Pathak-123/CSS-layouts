@@ -1,0 +1,93 @@
+#main{
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+    background-color: black;
+    border: 1px solid black;
+}
+.div {
+    margin: 5px 5px 0px 0px;
+    height: 4.7rem;
+}
+
+.div1 {
+    width: 100%;
+    background-color: #DDDDDD;
+    height: 6rem;
+    margin-bottom: 5px;
+}
+
+.div2 {
+    background-color: #00416D;
+    height: 13rem;
+    margin: 5px 5px 0px 5px;
+}
+
+
+.div3 {
+    background: #DDDDDD;
+    margin: 10px;
+    height:34vh;
+}
+
+.div4 {
+    background: #FFBB91;
+    height:34vh;
+     margin: 10px;
+     margin-left: 0px;
+     margin-right: 20px;
+}
+
+.div7 {
+    background-color: #DDDDDD;
+    height:34vh;
+     margin:10px;
+}
+
+.div10 {
+    background-color: #F5F1DA;
+    height: 3rem;
+    margin: 0px 0px 5px 0px;
+}
+
+
+.div5 {
+    background: #F8BD7F;
+    height:16.2vh;
+     margin: 10px 10px 0px 10px;
+     margin-left: 0px;
+     
+     
+}
+
+.div11 {
+    width: 100%;
+    background: #F5F1DA;
+    margin: 0px 0px 5px 0px;
+    height: 3rem;
+}
+
+
+.div {
+    margin: 10px 10px 0px 0px;
+    height: 5.7rem;
+}
+
+.div12 {
+    background: #00416D;
+    height: 13rem;
+    margin:5px;
+   /* margin: 0px 7px 5px 5px*/
+}
+
+.div13 {
+    background-color: #40A8C4;
+    height: 10vh;
+    margin-bottom: 10px;
+}
+
+.div14 {
+    background-color: #40A8C4;
+    height: 10vh;
+    margin-bottom: 10px;
+}
